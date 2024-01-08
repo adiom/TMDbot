@@ -1,0 +1,17 @@
+{
+  "name": "telegram-media-downloader-bot",
+  "version": "1.0.0",
+  "description": "Telegram Media Downloader Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "author": "Adiom Timur",
+  "license": "CANFLY LICENSE"
+}
