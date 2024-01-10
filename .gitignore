@@ -132,3 +132,6 @@ dist
 # TMD files
 files/
 files_adiom/
+
+*.sqlite
+*.db
